@@ -1,4 +1,5 @@
 # hello-world
-A test repo for learningz
 
-This is kinda okay.
+A test repo for testing and learning.
+
+Currently learning Java.
